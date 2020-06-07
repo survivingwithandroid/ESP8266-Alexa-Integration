@@ -1,6 +1,6 @@
 # Alexa - Amazon Echo - ESP8266
 
-Link: [Smart home: ESP8266 – Alexa and Amazon Echo](https://arduino-iot.tech/smart-home-esp8266-alexa-amazon-echo/)
+Link: [Smart home: ESP8266 – Alexa and Amazon Echo](https://www.survivingwithandroid.com/smart-home-esp8266-alexa-amazon-echo/)
 
 Build status: [![Build Status](https://travis-ci.org/survivingwithandroid/ESP8266-Alexa-Integration.svg?branch=master)](https://travis-ci.org/survivingwithandroid/ESP8266-Alexa-Integration)
 
